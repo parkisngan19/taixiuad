@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+TÀI XỈU ONLINE - Trang chơi game uy tín, đa dạng và hấp dẫn
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`TÀI XỈU ONLINE <https://taixiu.ad/>`_ là trang chơi game trực tuyến uy tín và hấp dẫn dành cho những ai đam mê tài xỉu và các trò chơi giải trí. Dù mới thành lập không lâu, TÀI XỈU ONLINE đã nhanh chóng thu hút đông đảo người chơi nhờ chất lượng dịch vụ và độ tin cậy cao. Sở hữu giấy phép hoạt động hợp pháp, TÀI XỈU ONLINE mang đến nhiều trải nghiệm chơi game phong phú như tài xỉu, thể thao, bầu cua, keno, xổ số và các trò chơi hấp dẫn khác. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Với đa dạng sảnh cược, tỷ lệ đổi thưởng cao, chính sách bảo mật an toàn 3 lớp và dịch vụ chăm sóc khách hàng tận tâm qua nhiều kênh liên hệ, TÀI XỈU ONLINE đảm bảo mang đến trải nghiệm giải trí an toàn và tiện lợi cho người chơi. Bên cạnh đó, các chương trình khuyến mãi hấp dẫn luôn chào đón thành viên mới và mang đến nhiều ưu đãi giá trị.
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Địa chỉ: 3291 Đ. Phạm Thế Hiển, Phường 7, Quận 8, Hồ Chí Minh, Việt Nam. 
 
-Contents
---------
+Phone: 0956622315. 
 
-.. toctree::
+Email: info@taixiu.ad. 
 
-   usage
-   api
+Website: https://taixiu.ad/ 
+
+#taixiu #taixiuonline #trangchutaixiu #dangkytaixiu #linktaixiu
